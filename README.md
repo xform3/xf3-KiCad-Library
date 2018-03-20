@@ -1,11 +1,11 @@
 # xform3-xf3-KiCad-Library
 
-##Sourced and Custom Kicad Component model set.
+## ourced and Custom Kicad Component model set.
 
 
 
-## KiCad 3D
-![Xform3 XFPCB-0004 Bipolar Power Supply KiCad 3d](../master/x_packages3d/x_CapRadial9mm.png)
+### KiCad 3D
+![Xform3 XFPCB-0004 Bipolar Power Supply KiCad 3d](../master/x_packages3d/x_CapRadial10mm.png)
 
 x_CapRadial10mm.png
 x_CapRadial13mm.png
