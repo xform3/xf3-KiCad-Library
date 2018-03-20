@@ -1,18 +1,21 @@
 # xform3-xf3-KiCad-Library
 
-## ourced and Custom Kicad Component model set.
+## Sourced and Custom Kicad Component 3D .step/.wrl Model Set.
 
-
-
-### KiCad 3D
+### Radial Capacitor
 ![Xform3 XFPCB-0004 Bipolar Power Supply KiCad 3d](../master/x_packages3d/x_CapRadial10mm.png)
+![Xform3 XFPCB-0004 Bipolar Power Supply KiCad 3d](../master/x_packages3d/x_CapRadial13mm.png)
+![Xform3 XFPCB-0004 Bipolar Power Supply KiCad 3d](../master/x_packages3d/x_CapRadial7mm.png)
 
-x_CapRadial10mm.png
-x_CapRadial13mm.png
-x_CapRadial7mm.png
-x_DiodeBridge.png
-x_Diode.png
-x_FuseHolder.png
+### Diodes & Bridges
+Radial Capacitor
+![Xform3 XFPCB-0004 Bipolar Power Supply KiCad 3d](../master/x_packages3d/x_DiodeBridge.png)
+![Xform3 XFPCB-0004 Bipolar Power Supply KiCad 3d](../master/x_packages3d/x_Diode.png)
+
+### Fuse Holder
+![Xform3 XFPCB-0004 Bipolar Power Supply KiCad 3d](../master/x_packages3d/x_FuseHolder.png)
+
+
 x_Jack35.png
 x_LedBlue.png
 x_Led.png
