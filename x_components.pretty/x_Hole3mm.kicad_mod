@@ -1,0 +1,11 @@
+(module xhole3mm (layer F.Cu) (tedit 58DAA07E)
+  (descr "module 1 pin (ou trou mecanique de percage)")
+  (tags DEV)
+  (fp_text reference Ref** (at 0 -2) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value Val** (at 0 2) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad "" thru_hole trapezoid (at 0 0) (size 5 5) (drill 3) (layers *.Cu B.Mask))
+)
