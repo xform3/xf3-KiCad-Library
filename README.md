@@ -3,17 +3,15 @@
 ## Sourced and Custom Kicad Component 3D .step/.wrl Model Set.
 
 ### Radial Capacitor
-![Xform3 XFPCB-0004 Bipolar Power Supply KiCad 3d](../master/x_packages3d/x_CapRadial10mm.png)
-![Xform3 XFPCB-0004 Bipolar Power Supply KiCad 3d](../master/x_packages3d/x_CapRadial13mm.png)
-![Xform3 XFPCB-0004 Bipolar Power Supply KiCad 3d](../master/x_packages3d/x_CapRadial7mm.png)
+![Radial Capacitor KiCad 3d step wrl component model](../master/x_packages3d/x_CapRadial10mm.png)
+![Radial Capacitor KiCad 3d step wrl component model](../master/x_packages3d/x_CapRadial13mm.png)
 
 ### Diodes & Bridges
-Radial Capacitor
-![Xform3 XFPCB-0004 Bipolar Power Supply KiCad 3d](../master/x_packages3d/x_DiodeBridge.png)
-![Xform3 XFPCB-0004 Bipolar Power Supply KiCad 3d](../master/x_packages3d/x_Diode.png)
+![Bridge diode KiCad 3d step wrl component model](../master/x_packages3d/x_DiodeBridge.png)
+![Diode KiCad 3d step wrl component model](../master/x_packages3d/x_Diode.png)
 
 ### Fuse Holder
-![Xform3 XFPCB-0004 Bipolar Power Supply KiCad 3d](../master/x_packages3d/x_FuseHolder.png)
+![Fuse Holder  KiCad 3d step wrl component model](../master/x_packages3d/x_FuseHolder.png)
 
 
 x_Jack35.png
